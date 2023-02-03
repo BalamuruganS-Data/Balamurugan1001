@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurugan1001&label=Profile%20views&color=0e75b6&style=flat" alt="balamurugan1001" /> </p>
 
-- 🌱 I’m currently learning **Tableau, PowerBI**
+- 🌱 I’m have knowledge on **SQL,QlikView,Qliksense,Tableau, PowerBI**
 
 - 💬 Ask me about **Data Analytics**
 
